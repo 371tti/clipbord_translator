@@ -22,3 +22,5 @@ ctlr+x+cでクリップボードを翻訳した文を貼り付けます
 このソフトはGOOGLETRANSRATEをつかっているためグレーです。
 
 使用は自己責任でよろしくお願いします
+
+https://github.com/371tti/clipbord_transrater/raw/UC/clipbord_transrate.exe
