@@ -23,4 +23,6 @@ ctlr+x+cでクリップボードを翻訳した文を貼り付けます
 
 使用は自己責任でよろしくお願いします
 
+↓ダウンロード
+
 https://github.com/371tti/clipbord_transrater/raw/UC/clipbord_transrate.exe
