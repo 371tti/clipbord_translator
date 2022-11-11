@@ -6,6 +6,8 @@ you can transrate clipbord ctlr+x+c
 
 このプログラムはクリップボードの内容を翻訳できます
 
+気まぐれに作りました
+
 まだ未完成なのでデフォルトが日本語toEnglishになってます
 
 # 仕様
