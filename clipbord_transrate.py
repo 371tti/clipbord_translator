@@ -4,10 +4,12 @@ from googletrans import Translator #pip install googletrans==4.0.0-rc1
 translator = Translator(service_urls=['translate.googleapis.com'])
 translator = Translator(raise_exception=True)
 
+cp_transtateS = True
+
 def cp_transtate():
     print('start servise "clip bord transrate" ')
     tr_txst = str
-    cp_up = ""
+    cp_up = ""　# ..think???????
     while cp_transtateS == True:
         if keyboard.is_pressed("ctrl+c"):
             try:
