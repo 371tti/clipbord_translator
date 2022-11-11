@@ -6,6 +6,9 @@ translator = Translator(raise_exception=True)
 
 cp_transtateS = True
 
+df_lang = 'ja'
+tr_lang = 'en'
+
 def cp_transtate():
     print('start servise "clip bord transrate" ')
     tr_txst = str
@@ -13,12 +16,12 @@ def cp_transtate():
     while cp_transtateS == True:
         if keyboard.is_pressed("ctrl+c"):
             try:
-                if translator.detect(pyperclip.paste()).lang == 'ja':
-                    tr_txst = translator.translate(pyperclip.paste(),dest='en').text
-                elif translator.detect(pyperclip.paste()).lang == 'en':
-                    tr_txst = translator.translate(pyperclip.paste(),dest='ja').text
+                if translator.detect(pyperclip.paste()).lang == df_lang:
+                    tr_txst = translator.translate(pyperclip.paste(),dest=tr_lang).text
+                elif translator.detect(pyperclip.paste()).lang == tr_lang:
+                    tr_txst = translator.translate(pyperclip.paste(),dest=df_lang).text
                 else :
-                    tr_txst = translator.translate(pyperclip.paste(),dest='ja').text
+                    tr_txst = translator.translate(pyperclip.paste(),dest=df_lang).text
             except:
                 tr_txst = "<<[cp_transrate_service]ERR文字数が長すぎる場合があります。分けてみて、、>>"
 
