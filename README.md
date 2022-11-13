@@ -38,6 +38,6 @@ google transrate license
 
 https://raw.githubusercontent.com/371tti/clipbord_translator/UC/google_transrate_License
 
-use api
+Used api
 
 https://github.com/ssut/py-googletrans
