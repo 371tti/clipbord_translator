@@ -36,9 +36,8 @@ https://github.com/371tti/clipbord_transrater/raw/UC/clipbord_transrate.exe
 
 License
 
-Googletrans is licensed under the MIT License. follow you
+Googletrans is licensed under the MIT License.Please agree when using
 
-::
 
     The MIT License (MIT)
 
