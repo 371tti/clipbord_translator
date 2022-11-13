@@ -65,3 +65,6 @@ Googletrans is licensed under the MIT License.Please agree when using
 Used api
 
 https://github.com/ssut/py-googletrans
+
+Used tool
+pyinstaller
