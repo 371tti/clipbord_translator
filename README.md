@@ -28,11 +28,11 @@ ctlr+x+cでクリップボードを翻訳した文を貼り付けます
 
 https://github.com/371tti/clipbord_transrater/raw/UC/clipbord_transrate.exe
 
-#設定
+# 設定
 
 相対パス'clipbord_transrate\config.yaml'から設定できます
 
-＃その他
+# その他
 
 License
 
