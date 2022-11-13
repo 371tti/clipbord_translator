@@ -23,7 +23,7 @@ def cp_transtate():
                 else :
                     tr_txst = translator.translate(pyperclip.paste(),dest=df_lang).text
             except:
-                tr_txst = "<<[cp_transrate_service]ERR文字数が長すぎる場合があります。分けてみて、、>>"
+                tr_txst = "<<[cp_transrate_service]ERR　too long ? >>"
 
         
         if keyboard.is_pressed("ctrl+c+x"):
