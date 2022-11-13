@@ -67,4 +67,5 @@ Used api
 https://github.com/ssut/py-googletrans
 
 Used tool
-pyinstaller
+pyinstaller compiler
+spyder editor
