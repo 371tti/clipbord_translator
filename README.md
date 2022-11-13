@@ -36,7 +36,7 @@ https://github.com/371tti/clipbord_transrater/raw/UC/clipbord_transrate.exe
 
 google transrate license
 
-https://raw.githubusercontent.com/371tti/clipbord_translator/UC/google_transrate_License
+https://raw.githubusercontent.com/371tti/clipbord_translator/UC/google_transrate_License.txt
 
 Used api
 
