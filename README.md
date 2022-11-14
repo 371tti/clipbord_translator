@@ -10,7 +10,7 @@ you can transrate clipbord ctlr+x+c
 
 # 仕様
 
-ctlr+x+cでクリップボードを翻訳した文を貼り付けます
+ctlr+でクリップボードを翻訳した文を貼り付けます
 
 日本語の場合英語に
 
