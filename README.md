@@ -2,7 +2,7 @@
 
 service clipbord transrate
 
-you can transrate clipbord ctlr+space
+you can transrate clipbord ctrl+space
 
 このプログラムはクリップボードの内容を翻訳できます
 
@@ -10,7 +10,7 @@ you can transrate clipbord ctlr+space
 
 # 仕様
 
-ctlr+spaceでクリップボードを翻訳した文を貼り付けます
+ctrl+spaceでクリップボードを翻訳した文を貼り付けます
 
 日本語の場合英語に
 
